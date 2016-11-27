@@ -49,11 +49,11 @@ Exemplo de definição de Stack no Eclipse Che usando este contêiner/imagem.
   },
   "components": [
     {
-      "version": "1.8.0_45",
+      "version": "1.8.0_92-b14",
       "name": "JDK"
     },
     {
-      "version": "3.2.2",
+      "version": "3.3.9",
       "name": "Maven"
     }
   ],
