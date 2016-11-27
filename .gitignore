@@ -1,0 +1,9 @@
+.ssh/cert*
+.Rproj.user
+.DS_Store
+target
+derby.log
+metastore_db/
+output/
+.classpath
+.settings
